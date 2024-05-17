@@ -1,0 +1,4 @@
+// Test for multiply method
+console.log(calculator.multiply(2, 3)); // Expected output: 6
+console.log(calculator.multiply(0, 5)); // Expected output: 0
+console.log(calculator.multiply(-4, 2)); // Expected output: -8
